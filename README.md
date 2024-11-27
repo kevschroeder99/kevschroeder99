@@ -20,10 +20,11 @@ Hi there! I'm a part-time developer who loves to turn ideas into code. Welcome t
 ## 🎵 My Coding Playlists
 
 ### 🚀 Productivity Mode
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0YW9WmgP16EuGNjN1chaDR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify](https://img.shields.io/badge/Spotify-Productivity%20Playlist-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/3lzGsM8FdGUWbX0yUoPp3f)
 
 ### 💻 Chill Coding Vibes
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3lzGsM8FdGUWbX0yUoPp3f?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![Spotify](https://img.shields.io/badge/Spotify-Productivity%20Playlist-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/3lzGsM8FdGUWbX0yUoPp3f)
+
 
 <!--
 **kevschroeder99/kevschroeder99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
