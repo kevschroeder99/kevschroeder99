@@ -1,9 +1,9 @@
-# 👋 Hello World! I'm Kevin
+# 👋 Hello World! I'm Kevin 👋
 
-## 🚀 About Me
+## 🚀 About Me 🚀
 Hi there! I'm a part-time developer who loves to turn ideas into code. Welcome to my digital playground!
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats 📊
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark"
@@ -17,14 +17,13 @@ Hi there! I'm a part-time developer who loves to turn ideas into code. Welcome t
 </picture>
 
 
-## Coding Playlists
+## 🎵 My Coding Playlists
 
 ### 🚀 Productivity Mode
-https://open.spotify.com/playlist/3lzGsM8FdGUWbX0yUoPp3f?si=7d48e3b9ccd04316
+<iframe src="https://open.spotify.com/embed/playlist/3lzGsM8FdGUWbX0yUoPp3f" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ### 💻 Chill Coding Vibes
-
-https://open.spotify.com/playlist/0YW9WmgP16EuGNjN1chaDR?si=1c842945a2274d82
+<iframe src="https://open.spotify.com/embed/playlist/0YW9WmgP16EuGNjN1chaDR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <!--
 **kevschroeder99/kevschroeder99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
