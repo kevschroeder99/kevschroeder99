@@ -16,15 +16,26 @@ Hi there! I'm a part-time developer who loves to turn ideas into code. Welcome t
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="GitHub Stats" />
 </picture>
 
+## 💻 Tech Ecosystem
+<p align="center">
+  
+#### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=java,html,css,angular,spring" alt="Languages & Frameworks"/>
+
+#### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,idea,eclipse,jenkins,vscode,netlify,postman,bitbucket" alt="Tools & Platforms"/>
+
+#### Libraries & Utilities
+<img src="https://skillicons.dev/icons?i=maven,kafka,selenium,latex" alt="Libraries & Utilities"/> </p>
 
 ## 🎵 My Coding Playlists
 
-### 🚀 Productivity Mode
-[![Spotify](https://img.shields.io/badge/Spotify-Productivity%20Playlist-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/3lzGsM8FdGUWbX0yUoPp3f)
-
-### 💻 Chill Coding Vibes
-[![Spotify](https://img.shields.io/badge/Spotify-Productivity%20Playlist-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/3lzGsM8FdGUWbX0yUoPp3f)
-
+| Productivity Mode | Chill Coding Vibes |
+|:---:|:---:|
+| [![Spotify](https://img.shields.io/badge/Productivity-Playlist-green?style=for-the-badge&logo=spotify)]([https://open.spotify.com/playlist/3lzGsM8FdGUWbX0yUoPp3f](https://open.spotify.com/playlist/0YW9WmgP16EuGNjN1chaDR?si=7f308cb4a13b4a17)) | [![Spotify](https://img.shields.io/badge/Chill-Playlist-blue?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/3lzGsM8FdGUWbX0yUoPp3f?si=852d378ffe28496e) |
+| **Tracks for Maximum Focus** | **Smooth Sounds for Smooth Code** |
+| Speed up your coding sessions | Relax and find your flow |
+| 🚀 High Energy | 💻 Calm Vibes |
 
 <!--
 **kevschroeder99/kevschroeder99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
