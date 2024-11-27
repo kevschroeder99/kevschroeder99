@@ -1,9 +1,9 @@
-# 👋 Hello World! I'm Kevin 👋
+# 👋 Hello World! I'm Kevin 
 
-## 🚀 About Me 🚀
+## 🚀 About Me 
 Hi there! I'm a part-time developer who loves to turn ideas into code. Welcome to my digital playground!
 
-## 📊 My GitHub Stats 📊
+## 📊 My GitHub Stats 
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark"
@@ -20,10 +20,11 @@ Hi there! I'm a part-time developer who loves to turn ideas into code. Welcome t
 ## 🎵 My Coding Playlists
 
 ### 🚀 Productivity Mode
-<iframe src="https://open.spotify.com/embed/playlist/3lzGsM8FdGUWbX0yUoPp3f" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0YW9WmgP16EuGNjN1chaDR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### 💻 Chill Coding Vibes
-<iframe src="https://open.spotify.com/embed/playlist/0YW9WmgP16EuGNjN1chaDR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3lzGsM8FdGUWbX0yUoPp3f?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <!--
 **kevschroeder99/kevschroeder99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
