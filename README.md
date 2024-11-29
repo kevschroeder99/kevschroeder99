@@ -6,14 +6,14 @@ Hi there! I'm a part-time developer who loves to turn ideas into code. Welcome t
 ## 📊 My GitHub Stats 
 <picture>
   <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=kevschroeder99&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api?username=kevschroeder99&show_icons=true&theme=default"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kevschroeder99&show_icons=true" alt="GitHub Stats" />
 </picture>
 
 ## 💻 Tech Ecosystem
